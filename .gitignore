@@ -1,4 +1,5 @@
-/*
 !/Content
 /Content/*
 !/Content/Mods
+!/Local
+active.txt

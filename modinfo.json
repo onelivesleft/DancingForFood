@@ -1,0 +1,16 @@
+{
+	"name": "Dancing for Food",
+	"description": "Controllable dancers and musical incense ",
+	"changeNote": "Fixed white boxes appearing on recipes.\nFixed music box initial volume.",
+	"author": "Iain King",
+	"authorUrl": "onelivesleft.com",
+	"versionMajor": 1,
+	"versionMinor": 1,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1976319788",
+	"steamVisibility": 0,
+	"folderName": "DancingForFood",
+	"revisionNumber": 191265,
+	"snapshotId": 23132
+}
