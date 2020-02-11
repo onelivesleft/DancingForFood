@@ -1,16 +1,16 @@
 {
-	"name": "Dancing for Food",
-	"description": "Controllable dancers and musical incense ",
-	"changeNote": "Fixed white boxes appearing on recipes.\nFixed music box initial volume.",
+	"name": "Dancing for Food - v1.1.5",
+	"description": "* Control dancer idle animation with size of stack in their first item slot.  Use gold coins for more control.\n* Musical Incense item available to admin spawn.\n* Enhance Legendary Kit upgrade tool available for making legendary weapons better (requires Feat).\n* Marathon Potion for running long distances.\n* Thralls with 300 ammo no longer run out of ammo.",
+	"changeNote": "Added Enhanced Legendary Kit and Marathon Potion\nThralls with 300 ammo no longer run out of ammo.",
 	"author": "Iain King",
 	"authorUrl": "onelivesleft.com",
 	"versionMajor": 1,
 	"versionMinor": 1,
-	"versionBuild": 2,
+	"versionBuild": 5,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1976319788",
 	"steamVisibility": 0,
 	"folderName": "DancingForFood",
-	"revisionNumber": 191265,
-	"snapshotId": 23132
+	"revisionNumber": 194338,
+	"snapshotId": 23382
 }
